@@ -2,6 +2,8 @@
     This file contains everything needed to run the overall program. This is
     done with the use of the Program class, which is responsible for this.
 """
+from ml_model import Model
+from ml_data import Data
 import config as cfg
 
 
