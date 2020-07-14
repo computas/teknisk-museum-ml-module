@@ -1,4 +1,5 @@
 # **Teknisk Museum Back-End Machine Learning Model**
+_This repository contains the source code of an independent machine learning module used to classify images received from the backend API. The overall goal of this module is to replace Custom Vision. This will lead to more control from the developers aspect in terms of how the machine learning model is built, and may assist in gaining relevant information on what's going on inside the model itself._
 ## **Usage**
 _Guide on how to use/run the program comes here!_
 
